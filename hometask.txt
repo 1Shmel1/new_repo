@@ -1,3 +1,19 @@
 В ветке master и origin/demo в файле README различается первая строка.
 master: "Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)"
 origin/demo: "Create release branch with human (master) in boots (boots branch) and hat (hat branch)."
+
+Commits:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Создан новый файл 1
+Создан новый файл 2
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Создан новый файл 3
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+Создан файл hometask.txt
